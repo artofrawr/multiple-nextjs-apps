@@ -1,5 +1,9 @@
+## !!! Please note !!!
+(10/2020) This proof of concept is outdated. I'll try to update its dependencies if and when I find a chance. In the meantime please treat it as a theoretical illustration of the concept.
+
 # multiple-nextjs-apps
 An example for running multiple Next.js apps on the same domain.
+
 
 ## 1. Setting asset prefix
 [Setting assetPrefix](https://nextjs.org/docs#cdn-support-with-asset-prefix) will prefix all scripts that Next.js loads. E.g. `/app1/_next/...`.
