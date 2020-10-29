@@ -1,5 +1,5 @@
 ## !!! Please note !!!
-(10/2020) This proof of concept is outdated. I'll try to update its dependencies if and when I find a chance. In the meantime please treat it as a theoretical illustration of the concept.
+(10/2020) This proof of concept is outdated. NextJS now fully supports setting base paths. See: https://nextjs.org/blog/next-9-5 I'll try to update the repo when I can.
 
 # multiple-nextjs-apps
 An example for running multiple Next.js apps on the same domain.
